@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: SeaGreen;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  img {
+    width: 500px;  /* Need to add 'px' unit */
+    height: 500px; /* Need to add 'px' unit */
+    border-radius: 10px; /* This creates rounded corners */
+    object-fit: cover; /* This ensures images maintain aspect ratio */
+}
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
